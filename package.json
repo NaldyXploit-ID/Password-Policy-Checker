@@ -1,0 +1,8 @@
+{
+  "name": "password-policy-checker",
+  "version": "0.1.0",
+  "description": "Demo package for Password-Policy-Checker",
+  "main": "assets/app.js",
+  "scripts": { "start": "node assets/app.js" },
+  "license": "MIT"
+}
